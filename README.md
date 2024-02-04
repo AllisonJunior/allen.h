@@ -1,5 +1,5 @@
-<h1 align="center"> ALLEN.H VERSÃO 1.0</h1>
-
+<h1 align="center"> ALLEN.H VERSÃO 1.0 ( Deprecated ) </h1>
+ 
 <br>
 
 <p>
@@ -259,16 +259,16 @@
 
 <br>
 
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/PR.md" title="Funções de print formatado."> 1. PR </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/CS.md" title="Funções de controle do console."> 2. CS </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/SYS.md" title="Funções de controle do sistema."> 3. SYS </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/PROPS.md" title="Funções de estilização do texto."> 4. PROPS </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/G.md" title="Funções de controle de entrada stdin."> 5. G </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/allen.md" title="Funções genêricas da biblioteca."> 6. allen </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/SB.md" title="Funções para uso de MESSAGEBOXES e WindowsSystemAudios."> 7. SB </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/MATTE.md" title="Funções matemáticas."> 8. MATTE </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/LOCH.md" title="Funções do setlocale."> 9. LOCH </a> </p>
-### <p align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/FLEE.md" title="Funções para controle total sobre arquivos."> 10. FLEE </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/PR.md" title="Funções de print formatado."> 1. PR </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/CS.md" title="Funções de controle do console."> 2. CS </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/SYS.md" title="Funções de controle do sistema."> 3. SYS </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/PROPS.md" title="Funções de estilização do texto."> 4. PROPS </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/G.md" title="Funções de controle de entrada stdin."> 5. G </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/allen.md" title="Funções genêricas da biblioteca."> 6. allen </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/SB.md" title="Funções para uso de MESSAGEBOXES e WindowsSystemAudios."> 7. SB </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/MATTE.md" title="Funções matemáticas."> 8. MATTE </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/LOCH.md" title="Funções do setlocale."> 9. LOCH </a> </p>
+### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/blob/main/FUNCTIONS_DESCRIPTION/FLEE.md" title="Funções para controle total sobre arquivos."> 10. FLEE </a> </p>
 
 
 
