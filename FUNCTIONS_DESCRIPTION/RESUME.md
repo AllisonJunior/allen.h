@@ -5,12 +5,12 @@
 
 ### <p align="center"> Nesse documento estão listadas as funções da biblioteca de forma simplificada e organizada por tópicos, assim como em qualquer outro documento é recomendável usar o CRTL + F para pesquisar o que lhe interessa </p>
 
-#### <p align="center"> <a href="https://github.com/AllisonJunior/Random/tree/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
+#### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
 
 --- 
 
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/PR.md" title="Funções de print formatado."> PR </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/PR.md" title="Funções de print formatado."> PR </a> </h1>
 
 
 <br>
@@ -57,7 +57,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/CS.md" title="Funções de controle do console."> CS </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/CS.md" title="Funções de controle do console."> CS </a> </h1>
 
 <br>
 
@@ -95,7 +95,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/SYS.md" title="Funções de controle do sistema."> SYS </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/SYS.md" title="Funções de controle do sistema."> SYS </a> </h1>
 
 <br>
 
@@ -140,7 +140,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/PROPS.md" title="Funções de estilização de texto."> PROPS </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/PROPS.md" title="Funções de estilização de texto."> PROPS </a> </h1>
 
 <br>
 
@@ -188,7 +188,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/G.md" title="Funções de entrada de dados."> G </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/G.md" title="Funções de entrada de dados."> G </a> </h1>
 
 <br>
 
@@ -229,7 +229,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/allen.md" title="Funções específicas."> allen </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/allen.md" title="Funções específicas."> allen </a> </h1>
 
 <br>
 
@@ -262,7 +262,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/SB.md" title="Funções de caixas simples."> SB </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/SB.md" title="Funções de caixas simples."> SB </a> </h1>
 
 <br>
 
@@ -279,7 +279,7 @@
 
 ---
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/MATTE.md" title="Funções de matemática."> MATTE </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/MATTE.md" title="Funções de matemática."> MATTE </a> </h1>
 
 <br>
 
@@ -333,7 +333,7 @@
 
 
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/LOCH.md" title="Funções simples do setlocale."> LOCH </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/LOCH.md" title="Funções simples do setlocale."> LOCH </a> </h1>
 
 <br>
 
@@ -352,7 +352,7 @@
 
 
 
-<h1 align="center"> <a href="https://github.com/AllisonJunior/Random/blob/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen/FUNCTIONS_DESCRIPTION/FLEE.md" title="Funções de arquivos."> FLEE </a> </h1>
+<h1 align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main/FUNCTIONS_DESCRIPTION/FLEE.md" title="Funções de arquivos."> FLEE </a> </h1>
 
 <br>
 
