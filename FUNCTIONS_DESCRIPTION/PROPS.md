@@ -4,7 +4,7 @@
 
 #### As funções do tipo ` PROPS `, servem para permitir uma estilização rápida e simples no console, como a alteração da cor do texto ou do plano de fundo, a movimentação do cursor e também a remoção de conteúdo do console. Por fim é importante ressaltar que esse tipo de função não irá funcionar em todos os consoles ( computadores sendo mais específico no windows 10 ), pois algumas funcionalidades podem não serem executadas corretamente ou simplesmente não funcionarem. 
 
-#### <p align="center"> <a href="https://github.com/AllisonJunior/Random/tree/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
+#### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
 
 ---
 
