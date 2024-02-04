@@ -4,7 +4,7 @@
 
 #### As funções do tipo `PR`, servem para printar conteúdo de formas diversas, com suas variações, especificações, estilizações, limitações entre outros, que serão mostradas nesse documento.
 
-#### <p align="center"> <a href="https://github.com/AllisonJunior/Random/tree/d18f674d1beaec2fbd48c33c0551cd901f1bcd3d/Projetos/C/%5B%20C%20%5D%20allen.h%20-%20Primeira%20vers%C3%A3o%20da%20biblioteca%20allen" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
+#### <p align="center"> <a href="https://github.com/AllisonJunior/allen.h/tree/main" title="Retornar a documentação."> VOLTAR PARA O DOCUMENTO PRINCIPAL</a> </p>
 
 ---
 
