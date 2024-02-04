@@ -10,9 +10,9 @@
 ### 2. Sua criação se deu como forma de estudo e adquirimento de experiência com projetos de larga escala, ou seja, foi produzida por uma só pessoa. 
 ### 3. Essa biblioteca é de código aberto, ou seja, qualquer um pode usar ou melhorar-lá.
 ### 4. Me absento de qualquer coisa ruim feita usando essa biblioteca.
-### 5. O compilador usado na biblioteca é o <a href="https://jmeubank.github.io/tdm-gcc/download/" title="Link para Donwload"> TDM-GCC </a>, o instale para evitar erros.
+### 5. O compilador usado na biblioteca é o <a href="https://jmeubank.github.io/tdm-gcc/download/" title="Link para Download do Compilador"> TDM-GCC </a>, o instale para evitar erros.
 ### 6. Recomendo o uso de CRTL + F para navegar pelas páginas.
-### 7. Para baixar a biblioteca utilize a release disponibilizada.
+### 7. Para baixar a biblioteca utilize a <a href="https://github.com/AllisonJunior/allen.h/releases/tag/Release" title="Link para Download do Header" > release </a> disponibilizada .
 
 </p>
 
