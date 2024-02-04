@@ -12,7 +12,7 @@
 ### 4. Me absento de qualquer coisa ruim feita usando essa biblioteca.
 ### 5. O compilador usado na biblioteca é o <a href="https://jmeubank.github.io/tdm-gcc/download/" title="Link para Download do Compilador"> TDM-GCC </a>, o instale para evitar erros.
 ### 6. Recomendo o uso de CRTL + F para navegar pelas páginas.
-### 7. Para baixar a biblioteca utilize a <a href="https://github.com/AllisonJunior/allen.h/releases/tag/Release" title="Link para Download do Header" > release </a> disponibilizada .
+### 7. Para baixar a biblioteca utilize a <a href="https://github.com/AllisonJunior/allen.h/releases/tag/Release" title="Link para Download do Header" > release </a> disponibilizada.
 
 </p>
 
