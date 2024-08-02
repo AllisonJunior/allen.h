@@ -363,7 +363,7 @@ main ( void )
     // Ativando os props
     ENABLEPROPS ();
 
-    echo ("Você gosta de mulher?");
+    echo ("Você gosta de cuscuz?");
     getch ();
 
     // Apagando o texto escrito
@@ -381,7 +381,7 @@ main ( void )
 - Antes da função:
 
 ```txt
-Você gosta de mulher?
+Você gosta de cuscuz?
 _ <- sinal do getch
 ```
 
@@ -1034,7 +1034,7 @@ main ( void )
     // Ativando os props
     ENABLEPROPS ();
 
-    echo ("ufa! amor ainda bem que estava enganado!");
+    echo ("ufa! pessoal ainda bem que estava enganado!");
     echo ("larguei mais cedo do trabalho!");
     echo ("e desci te fazer uma surpresa");
 
@@ -1059,7 +1059,7 @@ main ( void )
 - Antes da função:
 
 ```txt
-ufa! amor ainda bem que estava enganado!
+ufa! pessoal ainda bem que estava enganado!
 larguei mais cedo do trabalho!
 e desci te fazer uma surpresa
 ```
@@ -1067,7 +1067,7 @@ e desci te fazer uma surpresa
 - Depois da função:
 
 ```txt
-ufa! amor ainda bem que estava enganado! - linha 01 da musica.
+ufa! pessoal ainda bem que estava enganado! - linha 01 da musica.
 larguei mais cedo do trabalho!           - linha 02 da musica.
 e desci te fazer uma surpresa            - linha 03 da musica.
 ```
@@ -1126,7 +1126,7 @@ main ( void )
     // Ativando os props
     ENABLEPROPS ();
 
-    echo ("ufa! amor ainda bem que estava enganado!");
+    echo ("ufa! pessoal ainda bem que estava enganado!");
     echo ("larguei mais cedo do trabalho!");
     echo ("e desci te fazer uma surpresa");
 
@@ -1152,7 +1152,7 @@ main ( void )
 - Antes da função:
 
 ```txt
-ufa! amor ainda bem que estava enganado!
+ufa! pessoal ainda bem que estava enganado!
 larguei mais cedo do trabalho!
 e desci te fazer uma surpresa
 ```
