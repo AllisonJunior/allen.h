@@ -4892,11 +4892,11 @@ main ( void )
 
 ```
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 ```
 
 <br>
@@ -4905,7 +4905,7 @@ Bota na Pipokinha
 
 ```
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 ```
 
 <br>
@@ -5697,15 +5697,15 @@ main ( void )
 
 ```
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 ```
 
 <br>
@@ -5714,15 +5714,15 @@ Bota na Pipokinha
 
 ```
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 Bota na, bota na, bota na
-Bota na Pipokinha
+Bota na Panela
 ```
 
 <br>
